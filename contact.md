@@ -1,19 +1,15 @@
 ---
-bg: "owl.jpg"
+bg: "cornwall-pool.jpg"
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
-permalink: /about/
-summary: "About this blog"
-active: about
+title: "Contact"
+crawlertitle: "Links"
+permalink: /contact/
+summary: "contact details"
+active: contact
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Follow me on [instagram](https://www.instagram.com/localvagabond/?hl=en/) for travel photos uploaded daily.
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Check back here soon for a Youtube link and email details!
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+For now, you can DM me on instagram for any enquiries about collaborations, promotions, or advice.
