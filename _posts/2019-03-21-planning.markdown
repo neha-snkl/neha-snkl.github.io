@@ -3,7 +3,7 @@ bg: "IMG_20190318_100605_759.jpg"
 layout: post
 title:  "My approach to planning travel"
 crawlertitle: "How to plan to travel"
-summary: "Local Vagabond"
+summary: "the first step into the world"
 date:   2019-03-21 23:09:47
 categories: posts
 tags: 'planning'
