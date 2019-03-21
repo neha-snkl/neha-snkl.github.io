@@ -12,4 +12,4 @@ Follow me on [instagram](https://www.instagram.com/localvagabond/?hl=en/) for tr
 
 Check back here soon for a Youtube link and email details!
 
-For now, you can DM me on instagram for any enquiries about collaborations, promotions, or advice.
+For now, you can DM me on instagram for any enquiries about collaborations, promotions, or to share advice.
