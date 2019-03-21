@@ -1,10 +1,10 @@
 ---
-bg: "cornwall-pool.jpg"
+bg: "IMG_20190316_152820_418.jpg"
 layout: page
 title: "Contact"
 crawlertitle: "Links"
 permalink: /contact/
-summary: "contact details"
+summary: "find me anywhere and everywhere"
 active: contact
 ---
 
