@@ -4,7 +4,7 @@ layout: post
 title:  "My approach to planning travel"
 crawlertitle: "How to plan to travel"
 summary: "the first step into the world"
-date:   2019-03-21 23:09:47
+date:   2019-03-22 19:16:30
 categories: posts
 tags: 'planning'
 author: neha
@@ -30,3 +30,5 @@ One of the best things about travelling is immersing yourself into the culture o
 
 ### Extra:
 This is more to do with your budget than anything else. Leave some flexibility in your itinerary and your spending money for chances to get lost in a beautiful city or find the perfect souvenir at a local market. It'll also come in handy in an emergency, where you're tired and lost and just need a taxi to take you back to your hotel without needing any more struggle with maps.
+
+Of course, this isn't a comprehensive list. It is a good starting point for planning, and the planning structure I'm using for my gap year right now. Feel free to use it, or [suggest changes](https://neha-snkl.github.io/contact/) to it.
