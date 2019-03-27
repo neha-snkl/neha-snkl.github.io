@@ -9,6 +9,7 @@ summary: "live like a local anywhere"
 {% for post in site.posts limit: 5 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
+    {{ post.excerpt | strip_html | xml_escape | truncatewords: 50 }}&nbsp;
+    <a href="{{ post.url | prepend: site.baseurl }}">[Read&nbsp;More]</a>
   </article>
 {% endfor %}
