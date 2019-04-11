@@ -2,7 +2,7 @@
 bg: "IMG_20190318_175918_988.jpg"
 layout: post
 title:  "Voluntourism"
-crawlertitle: "How to plan to travel"
+crawlertitle: "More harmful than it seems"
 summary: "good intentions, bad impacts"
 date:   2019-04-11 19:16:30
 categories: posts
