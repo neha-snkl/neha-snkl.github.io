@@ -12,4 +12,4 @@ Follow me on [instagram](https://www.instagram.com/localvagabond/?hl=en/) for tr
 
 Email me at neha@localvagabond.com
 
-Check back here soon for a Youtube link!
+Check back here later for a Youtube link!
