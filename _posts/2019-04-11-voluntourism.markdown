@@ -1,7 +1,7 @@
 ---
 bg: "IMG_20190318_175918_988.jpg"
 layout: post
-title:  "Voluntourism"
+title:  "OPINION: Voluntourism"
 crawlertitle: "More harmful than it seems"
 summary: "good intentions, bad impacts"
 date:   2019-04-11 19:16:30
