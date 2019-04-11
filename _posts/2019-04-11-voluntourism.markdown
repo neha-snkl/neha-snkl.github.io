@@ -6,7 +6,7 @@ crawlertitle: "More harmful than it seems"
 summary: "good intentions, bad impacts"
 date:   2019-04-11 19:16:30
 categories: posts
-tags: 'ethics'
+tags: 'voluntourism'
 author: neha
 ---
 At first glance, building a new school for orphans in Nepal or a well for a village in Ethiopia sounds like a noble gesture. Volunteer tourism, or “voluntourism” is a type of tourism which has grown exponentially in recent years. And why wouldn’t it? Those countries are so hopelessly impoverished that they need us to save them, right? Not really. Both of the countries I gave as examples have some of the fastest economic growth rates in the world, much higher than most countries in Europe and North America. So why is it that our perception of most of Asia, South America and Africa is an image of poverty and suffering?
