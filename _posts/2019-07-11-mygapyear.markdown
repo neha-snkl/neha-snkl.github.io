@@ -9,8 +9,6 @@ categories: posts
 tags: 'planning'
 author: neha
 ---
-### The reality
-
 With less than a year until I finish secondary education here in the UK, it feels like I have an impossibly short length of time to plan what to do afterwards. At the moment, I'm studying A levels in French, Spanish, and English at sixth form. After that, my plan is to take a gap year. It's a cliché dream to be young and want to travel the world, but it takes effort, courage, and just the right amount of stupidity to actually pull it off. Here's hoping I've got what it takes.
 
 I thought I'd share updates on the planning process on my blog, partially so I could look back and remind myself how my ideas changed and how it all actually ended up coming together, and partially so anyone else with similar plans can see how much organisation and work it takes realistically. It's easy to get caught up in a world of bloggers and online influencers being paid to travel, but as I've quickly discovered, there's a lot more going on behind the scenes of the perfectly curated pictures you'll see on social media.
