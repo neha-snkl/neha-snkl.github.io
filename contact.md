@@ -11,5 +11,3 @@ active: contact
 Follow me on [instagram](https://www.instagram.com/localvagabond/?hl=en/) for travel photos uploaded daily.
 
 Email me at neha@localvagabond.com
-
-Check back here later for a Youtube link!
